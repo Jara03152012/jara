@@ -88,18 +88,18 @@
     border-radius: 20px;
   }
   .div1 h3{
-    color:crimson;
+    color:rgb(73, 75, 175);
     margin-top: 10px;
     font-size: 21px;
   }
   .div1 p{
-    color:crimson;
+    color:rgb(76, 78, 167);
     font-weight: bold;
     font-size: 18px;
   }
   .div1 button{
     background-color: #F9CEE4;
-    color: crimson;
+    color: rgb(91, 128, 177);
     font-weight: bold;
     font-size: 17px;
   }
@@ -121,22 +121,22 @@ margin:20px;
 .filmi img{
 width: 170px;
 height: 200px;
-border: 6px solid crimson;
+border: 6px solid rgb(70, 91, 148);
 border-radius: 20px;
 }
 .filmi h3{
-color:crimson;
+color:rgb(77, 90, 168);
 margin-top: 10px;
 font-size: 21px;
 }
 .filmi p{
-color:crimson;
+color:rgb(76, 127, 168);
 font-weight: bold;
 font-size: 18px;
 }
 .filmi button{
 background-color: #F9CEE4;
-color: crimson;
+color: rgb(72, 77, 146);
 font-weight: bold;
 font-size: 17px;
 }
@@ -158,22 +158,22 @@ margin:20px;
 .div2 img{
 width: 170px;
 height: 200px;
-border: 6px solid crimson;
+border: 6px solid rgb(110, 108, 189);
 border-radius: 20px;
 }
 .div2 h3{
-color:crimson;
+color:rgb(101, 122, 189);
 margin-top: 10px;
 font-size: 21px;
 }
 .div2 p{
-color:crimson;
+color:rgb(91, 90, 168);
 font-weight: bold;
 font-size: 25px;
 }
 .div2 button{
 background-color: #F9CEE4;
-color: crimson;
+color: rgb(91, 85, 175);
 font-weight: bold;
 font-size: 17px;
 }
@@ -195,22 +195,22 @@ margin:20px;
 .bileta img{
 width: 170px;
 height: 200px;
-border: 6px solid crimson;
+border: 6px solid rgb(85, 69, 145);
 border-radius: 20px;
 }
 .bileta h3{
-color:crimson;
+color:rgb(4, 5, 12);
 margin-top: 10px;
 font-size: 21px;
 }
 .bileta p{
-color:crimson;
+color:rgb(77, 65, 133);
 font-weight: bold;
 font-size: 25px;
 }
 .bileta button{
 background-color: #F9CEE4;
-color: crimson;
+color: rgb(82, 81, 161);
 font-weight: bold;
 font-size: 17px;
 }
