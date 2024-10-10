@@ -4,7 +4,7 @@
     }
     nav{
     background-color:#F9CEE4;
-    box-shadow:5px 5px 5px gray;
+    box-shadow:5px 5px 5px black;
     }
     .navdiv{
     display:flex;
@@ -15,16 +15,16 @@
     display:inline-block;
     }
     li a{
-    padding:10px;
+    padding:13px;
     color:black;
     }
     .logo img{
-    padding-left:30px
+    padding-left:34px
     }
     button{
-    background-color:crimson;
-    border-radius:10px;
-    margin-right:10px;
+    background-color:rgb(98, 130, 156);
+    border-radius:15px;
+    margin-right:15px;
     }
     .b1{
     padding:10px;
@@ -33,14 +33,14 @@
     color:white;
     }
     #header2{
-        border:10px solid #F9CEE4;
+        border:10px solid #35548d;
         border-radius: 10px;
         text-align:center;
     }
     #list{
         font-size: 30px;
         text-align: center;
-        color:crimson;
+        color:rgb(65, 119, 221);
         font-weight: bold;
     }
     .imglist{
@@ -54,7 +54,7 @@
     .sherbimi{
         font-size: 30px;
         text-align: center;
-        color: crimson;
+        color: rgb(66, 116, 182);
         width: 50%;
         margin:0 auto;
     }
@@ -84,7 +84,7 @@
   .div1 img{
     width: 170px;
     height: 200px;
-    border: 6px solid crimson;
+    border: 6px solid rgb(83, 92, 167);
     border-radius: 20px;
   }
   .div1 h3{
